@@ -46,5 +46,5 @@ Cada episódio é completamente isolado para garantir estabilidade.
 **Ronaldo Prado**  
 Engenheiro em formação e apaixonado por mobilidade elétrica, controle e motorsport. Desenvolvendo tecnologia para as pistas e pesquisando algoritmos avançados para veículos de alta performance.
 
-* 🔗 **LinkedIn:** [Acompanhe os artigos técnicos detalhados da série](https://www.linkedin.com/in/ronaldoprado/)
+* 🔗 **LinkedIn:** [Acompanhe os artigos técnicos detalhados da série](https://www.linkedin.com/in/engrpjunior)
 * 📸 **Instagram:** [@prado.engineer](https://www.instagram.com/prado.engineer) (Bastidores do desenvolvimento e "Build in Public")
