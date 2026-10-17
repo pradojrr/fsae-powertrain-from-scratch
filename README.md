@@ -8,7 +8,7 @@ A missão deste repositório é fechar a lacuna entre a teoria acadêmica de má
 
 ## 🛠️ Stack Tecnológico
 * **Ambiente de Simulação:** MATLAB & Simulink
-* **Planta Eletromecânica:** Motor Síncrono de Ímãs Permanentes (PMSM) - Emrax 228
+* **Planta Eletromecânica:** Motor Síncrono de Ímãs Permanentes (PMSM) - Emrax 208
 * **Estratégia de Controle:** Field-Oriented Control (FOC)
 * **Modulação:** Space Vector Pulse Width Modulation (SVPWM)
 
