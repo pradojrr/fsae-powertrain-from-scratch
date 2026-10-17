@@ -1,0 +1,7 @@
+# Ficheiros e Pastas temporárias do MATLAB/Simulink
+slprj/
+*.slxc
+*.asv
+*.m~
+*.mat
+*.autosave
